@@ -1,0 +1,6 @@
+Create file `$HOME/.zshenv`:
+```
+ZDOTDIR=$HOME/.config/zsh
+ZNEWENV=$ZDORDIR/.zshenv
+if [ -f $ZNEWENV ]; then source $ZNEWENV; else; fi
+```
