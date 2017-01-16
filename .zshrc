@@ -7,5 +7,6 @@ source $ZDOTDIR/config/general.zshrc
 source $ZDOTDIR/config/alias.zshrc
 source $ZDOTDIR/config/path.zshrc
 source $ZDOTDIR/config/env.zshrc
+source $ZDOTDIR/config/autocd.zshrc
 
 sourceMaybe $ZDOTDIR/plugin/work.zshrc
