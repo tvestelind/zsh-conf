@@ -1,3 +1,2 @@
-cdpath+=($HOME/repos/op5)
-cdpath+=($HOME/repos/op5/monitor)
-path+=($HOME/.cargo/bin)
+cdpath+=($HOME/repos/aiai)
+path+=($HOME/.config/composer/vendor/bin)
